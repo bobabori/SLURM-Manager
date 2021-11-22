@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.51369839.chunk.css",
+    "main.js": "/static/js/main.4a949310.chunk.js",
+    "main.js.map": "/static/js/main.4a949310.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.48c9c6a7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.48c9c6a7.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.32c41697.chunk.js": "/static/js/2.32c41697.chunk.js",
+    "static/js/2.32c41697.chunk.js.map": "/static/js/2.32c41697.chunk.js.map",
+    "static/js/3.f548c825.chunk.js": "/static/js/3.f548c825.chunk.js",
+    "static/js/3.f548c825.chunk.js.map": "/static/js/3.f548c825.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.51369839.chunk.css.map": "/static/css/main.51369839.chunk.css.map",
+    "static/js/2.32c41697.chunk.js.LICENSE.txt": "/static/js/2.32c41697.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/LeagueGothic-Regular.308bc269.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48c9c6a7.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.32c41697.chunk.js",
+    "static/css/main.51369839.chunk.css",
+    "static/js/main.4a949310.chunk.js"
+  ]
+}
